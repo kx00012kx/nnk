@@ -1,5 +1,5 @@
 import { Module } from "@nestjs/common";
-import { HelloS } from "./helle.s";
+import { HelloS } from "./hello.s";
 import { HolleC } from "./hello.c";
 
 @Module({
